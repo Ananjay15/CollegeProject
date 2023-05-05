@@ -1,0 +1,12 @@
+channels==4.0.0
+channels-redis==4.0.0
+Django==4.0.6
+django-admin-interface==0.19.1
+django-ckeditor==6.5.1
+django-import-export==2.9.0
+django-jazzmin==2.5.0
+hyperlink==21.0.0
+Pillow==9.2.0
+python-dotenv==0.21.0
+pywhatkit==5.4
+wikipedia==1.4.0
